@@ -1,0 +1,12 @@
+/dist/
+/_node_modules/
+/node_modules/
+/coverage/
+/docs/
+/tmp/
+/build/
+/out/
+/lib-cov/
+/lib-es5/
+/lib-es6/
+/lib-es201
