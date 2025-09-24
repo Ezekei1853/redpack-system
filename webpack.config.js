@@ -4,7 +4,7 @@ const { ProvidePlugin } = require('webpack');
 const NodePolyfillPlugin = require('node-polyfill-webpack-plugin');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: './src/index.tsx',
   mode: process.env.NODE_ENV || 'development',
   
   resolve: {
